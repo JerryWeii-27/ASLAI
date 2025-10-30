@@ -181,6 +181,7 @@ cython_debug/
 .cursorindexingignore
 
 # Training data
+unused/*
 asl_alphabet_train/*
 asl_alphabet_test/*
 train/*
