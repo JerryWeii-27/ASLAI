@@ -1,5 +1,3 @@
-# ASLAI
-
 Dataset link: https://data.mendeley.com/datasets/48dg9vhmyk/2
 
 **Thigns to note:**
